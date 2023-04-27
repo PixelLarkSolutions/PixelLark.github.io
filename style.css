@@ -117,7 +117,6 @@ nav .fa{
         text-align: left;
         z-index: 2;
         visibility: hidden;
-        transition: 0.5s;
 
     }
     .nav-link ul li:hover:after{
